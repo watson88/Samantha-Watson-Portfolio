@@ -1,0 +1,1 @@
+The following project was completed using PostgresSQL and the uncleaned “Data Science Job Posting on Glassdoor” dataset on Kaggle and involves exploratory data analysis and data cleaning/wrangling. The dataset can be found at the following link: https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
